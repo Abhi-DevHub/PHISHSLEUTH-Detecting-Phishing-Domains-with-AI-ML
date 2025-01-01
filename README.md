@@ -1,6 +1,6 @@
-# PHISHSLEUTH-Detecting-Phishing-Domains-with-AI/ML
+# PHISHALERT-AI-Detecting-Phishing-Domains-with-AI/ML
 
-PhishSleuth is an advanced phishing detection tool designed to identify and prevent phishing attacks. It includes a Chrome extension and backend services for enhanced security.
+PhishAlert-AI is an advanced phishing detection tool designed to identify and prevent phishing attacks. It includes a Chrome extension and backend services for enhanced security.
 
 ## Features
 - AI-powered phishing domain detection.
